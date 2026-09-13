@@ -346,6 +346,95 @@ based on PRD requirements and feedback.
 - Updated simulator and solvers.
 - Ran output validations.
 
+## Codex Development History
+
+**Source:** user-supplied Codex conversation excerpt. The original Codex
+transcript was not available as a separate local file; the content below is
+preserved from the user-provided history. Missing turns are not reconstructed.
+
+### Codex Audit Prompt
+
+> I have copied the current Buy-or-Wait project into a separate
+> backup/workspace. Treat this as an independent debugging task.
+>
+> Read the original Buy-or-Wait Problem Statement/PRD and inspect the entire
+> existing codebase.
+>
+> The current implementation produces a structurally valid `output.csv`, but
+> comparison against the 25 `sample_requests.csv` expected outputs reports 68
+> field-level mismatches.
+>
+> Do not assume either side is correct. Investigate the mismatches independently
+> and determine whether they are caused by incorrect implementation logic,
+> incorrect PS interpretation, recurrence detection, message/LLM processing,
+> image/VLM extraction, linked-event lifecycle handling, failed/cancelled
+> events, pending debits/credits, payment-plan logic, spending-change logic, or
+> genuinely contradictory sample data.
+>
+> Do not modify the code initially. First produce an independent audit report.
+> If changes are justified, modify only this copied workspace, run the tests,
+> compare all 25 samples field-by-field, and run the full 250-request pipeline.
+> Do not hardcode sample answers or reintroduce category whitelists merely to
+> make the sample mismatch count zero.
+
+### Codex Audit Conclusion And Actions
+
+The supplied Codex conclusion stated that the 68 mismatches were a mix rather
+than evidence that either side was universally correct:
+
+- 2 were formatting-only differences, such as `941.60` versus `941.6`.
+- Some sample outcomes were defensible only by projecting unsupported income,
+  such as a single `Final employer payroll` event.
+- Many mismatches exposed genuine defects: required messages and images were
+  silently ignored without an API or cache; recurrence was category-wide and
+  always monthly; non-recurring expenses could be proposed as cuts; and plans
+  beyond the deadline or forecast horizon could be accepted.
+
+The supplied record states that Codex made rule-based fixes only:
+
+- Offline conservative parsing for explicit salary amendments and delays.
+- Evidence-based recurrence by category, description, and direction using
+  observed cadence.
+- Rejection of late or out-of-horizon payment plans.
+- Spending changes limited to actually recurring flexible debits.
+
+The supplied record also states that no request IDs, expected answers, or
+category recurrence whitelist were added; 6/6 unit tests passed; the full
+250-request pipeline completed; and output validation passed with 250 rows,
+the correct schema/order, no duplicate IDs, and no formatting issues. A later
+sample run including parsed messages reported 74 raw field-string differences
+across the 25 samples, with unresolved image-backed records remaining at that
+stage.
+
+### Codex Image-Extraction Prompt
+
+> Fix this issue in the copied workspace only. Read the original PS/PRD and
+> inspect `images.csv`, the 16 image files, and the corresponding
+> `financial_events.csv` records.
+>
+> Implement a proper VLM/OCR extraction path that processes the actual 16
+> images, extracts the financially relevant amount from each image, validates
+> the extracted result before using it, associates the result with the correct
+> `event_id`, preserves `source_image_ids` provenance, does not hardcode any of
+> the 16 answers in source code, uses caching only for actual model/OCR
+> responses, and does not invent an amount when extraction is genuinely
+> uncertain.
+>
+> Pay particular attention to documents where the relevant amount is not
+> simply the first visible number; identify the correct total/net/payable amount
+> according to the event context.
+
+### Codex Image-Extraction Progress
+
+The supplied Codex progress stated that the financial decision logic would
+remain untouched while the missing-amount ingestion path was investigated. It
+reported that all 16 document contexts had been inspected and that a generic
+first/last-number approach was unsafe because documents included payslips with
+Net Pay, rent receipts with Balance Due, taxi receipts where Cash Paid was not
+the fare, and invoices containing subtotal, taxes, grand total, and balance
+due. It also stated that a local OCR runtime was installed and that an
+event-aware, confidence-checked OCR/VLM fallback was being wired.
+
 ## Privacy Check
 
 This transcript contains no API keys, passwords, credentials, or private
