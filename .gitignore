@@ -1,0 +1,32 @@
+# Python caches and test output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Temporary and debug artifacts
+.submission_staging/
+*.tmp
+*.log
+trace_*.py
+mismatches_report.json
+mismatches_analysis.md
+AUDIT_REPORT.md
+calc_mismatches.py
+generate_mismatch_report.py
+inspect_data.py
+print_mismatches.py
+test_simulator_v2.py
+
+# Keep the three HackerRank submission artifacts tracked
+!code.zip
+!output.csv
+!log.txt

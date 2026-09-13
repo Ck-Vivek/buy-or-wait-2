@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000,not_affordable,not_recommended,none,2025-08-03,none,The full IDR 15656000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 15656000.
+request_27,6670,not_affordable,not_recommended,none,2026-07-05,none,The full ZAR 6670 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 6670.
+request_28,429.49,affordable_later,wait,2024-07-15:1302.4,2024-07-15,none,Wait until 2024-07-15 to pay EUR 1302.4 in full. The balance is projected to support the full amount safely by then.
+request_29,27509.49,not_affordable,not_recommended,none,,none,The full ZAR 51524 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 27509.49.
+request_30,775.2,not_affordable,not_recommended,none,2026-04-06,none,The full USD 775.2 cannot be completed safely within 90 days. The maximum safe amount today is USD 775.2.
+request_31,5513616.14,not_affordable,not_recommended,none,2024-09-15,none,The full IDR 18164000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 5513616.14.
+request_32,16617.42,not_affordable,not_recommended,none,2025-03-15,none,The full ZAR 40018 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 16617.42.
+request_33,41098.41,not_affordable,not_recommended,none,2026-02-15,none,The full INR 118000 cannot be completed safely within 90 days. The maximum safe amount today is INR 41098.41.
+request_34,129400,not_affordable,not_recommended,none,2024-12-04,none,The full INR 129400 cannot be completed safely within 90 days. The maximum safe amount today is INR 129400.
+request_35,43183.76,affordable_later,wait,2026-01-15:212000,2026-01-15,none,Wait until 2026-01-15 to pay INR 212000 in full. The balance is projected to support the full amount safely by then.
+request_36,921.23,affordable_later,wait,2026-09-15:3954,2026-09-15,none,Wait until 2026-09-15 to pay USD 3954 in full. The balance is projected to support the full amount safely by then.
+request_37,5754441.16,not_affordable,not_recommended,none,2024-04-15,none,The full IDR 14649000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 5754441.16.
+request_38,225.42,affordable_later,wait,2025-09-15:971.3,2025-09-15,none,Wait until 2025-09-15 to pay EUR 971.3 in full. The balance is projected to support the full amount safely by then.
+request_39,71777.5,not_affordable,not_recommended,none,2026-04-15,none,The full INR 208600 cannot be completed safely within 90 days. The maximum safe amount today is INR 71777.5.
+request_40,583,not_affordable,not_recommended,none,2024-07-15,none,The full EUR 1290.3 cannot be completed safely within 90 days. The maximum safe amount today is EUR 583.
+request_41,12845497.23,not_affordable,not_recommended,none,2025-11-15,none,The full IDR 38760000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 12845497.23.
+request_42,52100,affordable_now,full_payment,2026-01-05:52100,2026-01-05,none,"Pay INR 52100 today. After this payment, the balance stays above the INR 113100 minimum throughout the next 90 days."
+request_43,0,not_affordable,not_recommended,none,,none,The full IDR 43339000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 0.
+request_44,30829.94,not_affordable,not_recommended,none,2025-04-15,none,The full INR 95800 cannot be completed safely within 90 days. The maximum safe amount today is INR 30829.94.
+request_45,4793839.9,not_affordable,not_recommended,none,2026-09-15,none,The full IDR 21983000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 4793839.9.
+request_46,47206.22,not_affordable,not_recommended,none,2024-12-15,none,The full INR 49450 cannot be completed safely within 90 days. The maximum safe amount today is INR 47206.22.
+request_47,38114000,not_affordable,not_recommended,none,2025-05-05,none,The full IDR 38114000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 38114000.
+request_48,45700,affordable_now,full_payment,2026-07-25:45700,2026-07-25,none,"Pay INR 45700 today. After this payment, the balance stays above the INR 71300 minimum throughout the next 90 days."
+request_49,15786210.35,not_affordable,not_recommended,none,2024-04-15,none,The full IDR 34333000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 15786210.35.
+request_50,43900,not_affordable,not_recommended,none,2025-08-06,none,The full INR 43900 cannot be completed safely within 90 days. The maximum safe amount today is INR 43900.
+request_51,2191000,not_affordable,not_recommended,none,2026-01-03,none,The full IDR 2191000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 2191000.
+request_52,0,not_affordable,not_recommended,none,,none,The full INR 28870 cannot be completed safely within 90 days. The maximum safe amount today is INR 0.
+request_53,623.55,affordable_with_plan,installments,2025-11-21:589.06|2025-12-19:589.06|2026-01-16:589.06,2026-01-15,none,Use installment plan payment_option_145. The balance stays above USD 2100 throughout the payment schedule.
+request_54,6458.84,not_affordable,not_recommended,none,,none,The full ZAR 121528 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 6458.84.
+request_55,133498.57,not_affordable,not_recommended,none,2026-06-15,none,The full INR 218600 cannot be completed safely within 90 days. The maximum safe amount today is INR 133498.57.
+request_56,567.13,not_affordable,not_recommended,none,2025-02-15,none,The full USD 881.56 cannot be completed safely within 90 days. The maximum safe amount today is USD 567.13.
+request_57,14724.02,not_affordable,not_recommended,none,2026-05-15,none,The full ZAR 61446 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 14724.02.
+request_58,16226000,affordable_now,full_payment,2024-12-07:16226000,2024-12-07,none,"Pay IDR 16226000 today. After this payment, the balance stays above the IDR 14433900 minimum throughout the next 90 days."
+request_59,140600,not_affordable,not_recommended,none,2025-05-04,none,The full INR 140600 cannot be completed safely within 90 days. The maximum safe amount today is INR 140600.
+request_60,168.48,affordable_later,wait,2026-01-15:199.89,2026-01-15,none,Wait until 2026-01-15 to pay USD 199.89 in full. The balance is projected to support the full amount safely by then.
+request_61,29062,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,Use installment plan payment_option_169. The balance stays above ZAR 36700 throughout the payment schedule.
+request_62,404.23,not_affordable,not_recommended,none,2025-08-05,none,The full USD 404.23 cannot be completed safely within 90 days. The maximum safe amount today is USD 404.23.
+request_63,49471.38,affordable_with_plan,partial_payment,2026-07-07:49471.38|2026-08-15:294428.62,2026-08-15,none,Pay INR 49471.38 today and the remaining INR 294428.62 on 2026-08-15. This keeps the balance above INR 153500 throughout.
+request_64,47355.03,not_affordable,not_recommended,none,2024-06-15,none,The full INR 63700 cannot be completed safely within 90 days. The maximum safe amount today is INR 47355.03.
+request_65,7114.42,not_affordable,not_recommended,none,,none,The full ZAR 54340 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 7114.42.
+request_66,22200,not_affordable,not_recommended,none,2026-04-03,none,The full INR 22200 cannot be completed safely within 90 days. The maximum safe amount today is INR 22200.
+request_67,534.4,not_affordable,not_recommended,none,2024-09-15,none,The full USD 2094 cannot be completed safely within 90 days. The maximum safe amount today is USD 534.4.
+request_68,1508.65,not_affordable,not_recommended,none,2025-02-15,none,The full USD 2091.6 cannot be completed safely within 90 days. The maximum safe amount today is USD 1508.65.
+request_69,529.1,not_affordable,not_recommended,none,2026-01-04,none,The full EUR 529.1 cannot be completed safely within 90 days. The maximum safe amount today is EUR 529.1.
+request_70,59952.21,not_affordable,not_recommended,none,2025-01-15,none,The full INR 243900 cannot be completed safely within 90 days. The maximum safe amount today is INR 59952.21.
+request_71,1709937.46,not_affordable,not_recommended,none,,none,The full IDR 21451000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 1709937.46.
+request_72,11330,affordable_now,full_payment,2026-07-05:11330,2026-07-05,none,"Pay ZAR 11330 today. After this payment, the balance stays above the ZAR 12200 minimum throughout the next 90 days."
+request_73,71400,not_affordable,not_recommended,none,2023-01-20,none,The full INR 71400 cannot be completed safely within 90 days. The maximum safe amount today is INR 71400.
+request_74,5010,not_affordable,not_recommended,none,2025-08-04,none,The full ZAR 5010 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 5010.
+request_75,14208.51,not_affordable,not_recommended,none,,none,The full ZAR 28270 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 14208.51.
+request_76,1018.71,not_affordable,not_recommended,none,,none,The full USD 4455.6 cannot be completed safely within 90 days. The maximum safe amount today is USD 1018.71.
+request_77,60700,affordable_now,full_payment,2025-11-05:60700,2025-11-05,none,"Pay INR 60700 today. After this payment, the balance stays above the INR 82200 minimum throughout the next 90 days."
+request_78,50200,not_affordable,not_recommended,none,2025-10-02,none,The full INR 50200 cannot be completed safely within 90 days. The maximum safe amount today is INR 50200.
+request_79,398.29,affordable_with_plan,partial_payment,2024-09-04:398.29|2024-10-15:1753.31,2024-10-15,none,Pay EUR 398.29 today and the remaining EUR 1753.31 on 2024-10-15. This keeps the balance above EUR 1000 throughout.
+request_80,65994.79,not_affordable,not_recommended,none,,none,The full INR 217500 cannot be completed safely within 90 days. The maximum safe amount today is INR 65994.79.
+request_81,2076,not_affordable,not_recommended,none,2026-07-03,none,The full USD 2076 cannot be completed safely within 90 days. The maximum safe amount today is USD 2076.
+request_82,634.45,not_affordable,not_recommended,none,2025-01-15,none,The full USD 1405.2 cannot be completed safely within 90 days. The maximum safe amount today is USD 634.45.
+request_83,0,not_affordable,not_recommended,none,,none,The full INR 156200 cannot be completed safely within 90 days. The maximum safe amount today is INR 0.
+request_84,26400.24,not_affordable,not_recommended,none,2026-06-15,none,The full INR 95400 cannot be completed safely within 90 days. The maximum safe amount today is INR 26400.24.
+request_85,1084252.83,not_affordable,not_recommended,none,,none,The full IDR 19304000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 1084252.83.
+request_86,46300,not_affordable,not_recommended,none,2025-08-03,none,The full INR 46300 cannot be completed safely within 90 days. The maximum safe amount today is INR 46300.
+request_87,0,not_affordable,not_recommended,none,,none,The full INR 487900 cannot be completed safely within 90 days. The maximum safe amount today is INR 0.
+request_88,11959.79,not_affordable,not_recommended,none,2024-06-15,none,The full ZAR 26092 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 11959.79.
+request_89,10945379.21,not_affordable,not_recommended,none,2025-11-15,none,The full IDR 13756000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 10945379.21.
+request_90,2560,not_affordable,not_recommended,none,2026-07-06,none,The full ZAR 2560 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 2560.
+request_91,595.7,not_affordable,not_recommended,none,2024-10-15,none,The full EUR 1927.2 cannot be completed safely within 90 days. The maximum safe amount today is EUR 595.7.
+request_92,34034,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,"Pay ZAR 34034 today. After this payment, the balance stays above the ZAR 28100 minimum throughout the next 90 days."
+request_93,1729.2,not_affordable,not_recommended,none,2026-04-07,none,The full USD 1729.2 cannot be completed safely within 90 days. The maximum safe amount today is USD 1729.2.
+request_94,572,affordable_now,full_payment,2024-12-04:572,2024-12-04,none,"Pay EUR 572 today. After this payment, the balance stays above the EUR 600 minimum throughout the next 90 days."
+request_95,59625.17,not_affordable,not_recommended,none,,none,The full INR 553000 cannot be completed safely within 90 days. The maximum safe amount today is INR 59625.17.
+request_96,84764.35,affordable_with_plan,installments,2026-01-10:31269.33|2026-02-09:31269.33|2026-03-11:31269.33,2026-01-15,none,Use installment plan payment_option_269. The balance stays above INR 56500 throughout the payment schedule.
+request_97,0,not_affordable,not_recommended,none,,none,The full ZAR 23496 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 0.
+request_98,10163.94,affordable_later,wait,2025-09-15:27148,2025-09-15,none,Wait until 2025-09-15 to pay ZAR 27148 in full. The balance is projected to support the full amount safely by then.
+request_99,18062,affordable_now,full_payment,2026-07-04:18062,2026-07-04,none,"Pay ZAR 18062 today. After this payment, the balance stays above the ZAR 49100 minimum throughout the next 90 days."
+request_100,28325.25,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-06-15,none,Use installment plan payment_option_281. The balance stays above ZAR 32500 throughout the payment schedule.
+request_101,143500,not_affordable,not_recommended,none,2025-11-03,none,The full INR 143500 cannot be completed safely within 90 days. The maximum safe amount today is INR 143500.
+request_102,1716,not_affordable,not_recommended,none,2026-04-05,none,The full EUR 1716 cannot be completed safely within 90 days. The maximum safe amount today is EUR 1716.
+request_103,17836.51,not_affordable,not_recommended,none,,none,The full INR 368300 cannot be completed safely within 90 days. The maximum safe amount today is INR 17836.51.
+request_104,17204,not_affordable,not_recommended,none,2025-02-04,none,The full ZAR 17204 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 17204.
+request_105,53500,not_affordable,not_recommended,none,2026-06-08,none,The full INR 53500 cannot be completed safely within 90 days. The maximum safe amount today is INR 53500.
+request_106,0,not_affordable,not_recommended,none,,none,The full EUR 2207.7 cannot be completed safely within 90 days. The maximum safe amount today is EUR 0.
+request_107,0,not_affordable,not_recommended,none,,none,The full EUR 2534.4 cannot be completed safely within 90 days. The maximum safe amount today is EUR 0.
+request_108,3443.44,not_affordable,not_recommended,none,2026-07-24,none,The full ZAR 55308 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 3443.44.
+request_109,683.27,not_affordable,not_recommended,none,2024-03-15,none,The full EUR 1863.4 cannot be completed safely within 90 days. The maximum safe amount today is EUR 683.27.
+request_110,22352,affordable_with_plan,installments,2025-08-06:7748.69|2025-09-03:7748.69|2025-10-01:7748.69,2025-08-06,none,Use installment plan payment_option_310. The balance stays above ZAR 11200 throughout the payment schedule.
+request_111,16625000,not_affordable,not_recommended,none,2026-04-03,none,The full IDR 16625000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 16625000.
+request_112,271.7,affordable_now,full_payment,2024-06-05:271.7,2024-06-05,none,"Pay EUR 271.7 today. After this payment, the balance stays above the EUR 500 minimum throughout the next 90 days."
+request_113,33403.44,not_affordable,not_recommended,none,2026-09-15,none,The full INR 36500 cannot be completed safely within 90 days. The maximum safe amount today is INR 33403.44.
+request_114,65300,affordable_now,full_payment,2026-01-04:65300,2026-01-04,none,"Pay INR 65300 today. After this payment, the balance stays above the INR 113400 minimum throughout the next 90 days."
+request_115,16371.71,affordable_later,wait,2024-10-15:80500,2024-10-15,none,Wait until 2024-10-15 to pay INR 80500 in full. The balance is projected to support the full amount safely by then.
+request_116,19048.01,not_affordable,not_recommended,none,2025-04-15,none,The full INR 241200 cannot be completed safely within 90 days. The maximum safe amount today is INR 19048.01.
+request_117,880,affordable_now,full_payment,2026-07-05:880,2026-07-05,none,"Pay EUR 880 today. After this payment, the balance stays above the EUR 1000 minimum throughout the next 90 days."
+request_118,688.01,not_affordable,not_recommended,none,2024-12-15,none,The full EUR 738.1 cannot be completed safely within 90 days. The maximum safe amount today is EUR 688.01.
+request_119,0,not_affordable,not_recommended,none,,none,The full INR 203500 cannot be completed safely within 90 days. The maximum safe amount today is INR 0.
+request_120,7714000,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,"Pay IDR 7714000 today. After this payment, the balance stays above the IDR 20050300 minimum throughout the next 90 days."
+request_121,633.6,not_affordable,not_recommended,none,2024-03-03,none,The full USD 633.6 cannot be completed safely within 90 days. The maximum safe amount today is USD 633.6.
+request_122,20558000,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,Use installment plan payment_option_347. The balance stays above IDR 12588500 throughout the payment schedule.
+request_123,4076000,not_affordable,not_recommended,none,2026-01-07,none,The full IDR 4076000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 4076000.
+request_124,379.98,not_affordable,not_recommended,none,,none,The full EUR 3104.2 cannot be completed safely within 90 days. The maximum safe amount today is EUR 379.98.
+request_125,6468,affordable_now,full_payment,2025-11-06:6468,2025-11-06,none,"Pay ZAR 6468 today. After this payment, the balance stays above the ZAR 11300 minimum throughout the next 90 days."
+request_126,159600,not_affordable,not_recommended,none,2026-07-03,none,The full INR 159600 cannot be completed safely within 90 days. The maximum safe amount today is INR 159600.
+request_127,0,not_affordable,not_recommended,none,,none,The full ZAR 23980 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 0.
+request_128,25168,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,"Pay ZAR 25168 today. After this payment, the balance stays above the ZAR 42600 minimum throughout the next 90 days."
+request_129,154.54,not_affordable,not_recommended,none,,none,The full USD 2668.8 cannot be completed safely within 90 days. The maximum safe amount today is USD 154.54.
+request_130,593.21,not_affordable,not_recommended,none,2025-01-15,none,The full USD 1978.8 cannot be completed safely within 90 days. The maximum safe amount today is USD 593.21.
+request_131,1440.73,affordable_with_plan,installments,2025-05-06:643.14|2025-06-03:643.14|2025-07-01:643.14,2025-05-15,none,Use installment plan payment_option_372. The balance stays above USD 1100 throughout the payment schedule.
+request_132,379.86,affordable_now,full_payment,2026-01-05:379.86,2026-01-05,none,"Pay USD 379.86 today. After this payment, the balance stays above the USD 1100 minimum throughout the next 90 days."
+request_133,5432395.72,not_affordable,not_recommended,none,,none,The full IDR 15770000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 5432395.72.
+request_134,7343943.67,affordable_later,wait,2025-08-15:21831000,2025-08-15,none,Wait until 2025-08-15 to pay IDR 21831000 in full. The balance is projected to support the full amount safely by then.
+request_135,304.8,not_affordable,not_recommended,none,2026-07-06,none,The full USD 304.8 cannot be completed safely within 90 days. The maximum safe amount today is USD 304.8.
+request_136,560.4,not_affordable,not_recommended,none,2024-06-03,none,The full USD 560.4 cannot be completed safely within 90 days. The maximum safe amount today is USD 560.4.
+request_137,28680.08,not_affordable,not_recommended,none,2026-01-15,none,The full INR 80100 cannot be completed safely within 90 days. The maximum safe amount today is INR 28680.08.
+request_138,986.42,not_affordable,not_recommended,none,2026-04-15,none,The full EUR 1256.94 cannot be completed safely within 90 days. The maximum safe amount today is EUR 986.42.
+request_139,1371.64,not_affordable,not_recommended,none,2024-09-15,none,The full USD 2316 cannot be completed safely within 90 days. The maximum safe amount today is USD 1371.64.
+request_140,5176.76,not_affordable,not_recommended,none,,none,The full ZAR 62832 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 5176.76.
+request_141,32355.84,not_affordable,not_recommended,none,,none,The full INR 171600 cannot be completed safely within 90 days. The maximum safe amount today is INR 32355.84.
+request_142,1263.6,affordable_now,full_payment,2024-12-05:1263.6,2024-12-05,none,"Pay USD 1263.6 today. After this payment, the balance stays above the USD 1700 minimum throughout the next 90 days."
+request_143,4385.39,not_affordable,not_recommended,none,2025-06-15,none,The full ZAR 12584 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 4385.39.
+request_144,233.34,affordable_now,full_payment,2026-07-04:233.34,2026-07-04,none,"Pay USD 233.34 today. After this payment, the balance stays above the USD 600 minimum throughout the next 90 days."
+request_145,43946.17,affordable_with_plan,installments,2024-03-20:75365.33|2024-04-20:75365.33|2024-05-21:75365.33,2024-04-15,none,Use installment plan payment_option_412. The balance stays above INR 155400 throughout the payment schedule.
+request_146,19393.07,affordable_later,wait,2025-10-15:449400,2025-10-15,none,Wait until 2025-10-15 to pay INR 449400 in full. The balance is projected to support the full amount safely by then.
+request_147,0,not_affordable,not_recommended,none,,none,The full EUR 1129.7 cannot be completed safely within 90 days. The maximum safe amount today is EUR 0.
+request_148,10459.85,affordable_with_plan,installments,2024-06-14:7710.56|2024-07-15:7710.56|2024-08-15:7710.56,2024-06-15,none,Use installment plan payment_option_421. The balance stays above ZAR 20000 throughout the payment schedule.
+request_149,23357.95,not_affordable,not_recommended,none,2025-11-15,none,The full ZAR 36652 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 23357.95.
+request_150,390.35,not_affordable,not_recommended,none,2026-01-15,none,The full EUR 496.1 cannot be completed safely within 90 days. The maximum safe amount today is EUR 390.35.
+request_151,0,not_affordable,not_recommended,none,,none,The full IDR 26999000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 0.
+request_152,12010.11,affordable_with_plan,installments,2025-02-12:4812.43|2025-03-12:4812.43|2025-04-09:4812.43,2025-02-15,none,Use installment plan payment_option_433. The balance stays above ZAR 11900 throughout the payment schedule.
+request_153,12.53,not_affordable,not_recommended,none,,none,The full USD 2830.8 cannot be completed safely within 90 days. The maximum safe amount today is USD 12.53.
+request_154,1625.8,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,Use installment plan payment_option_438. The balance stays above EUR 1300 throughout the payment schedule.
+request_155,55565.59,not_affordable,not_recommended,none,,none,The full INR 112500 cannot be completed safely within 90 days. The maximum safe amount today is INR 55565.59.
+request_156,11505.88,not_affordable,not_recommended,none,2026-05-15,none,The full ZAR 43076 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 11505.88.
+request_157,5954252.92,affordable_later,wait,2024-04-15:23503000,2024-04-15,none,Wait until 2024-04-15 to pay IDR 23503000 in full. The balance is projected to support the full amount safely by then.
+request_158,242600,not_affordable,not_recommended,none,2025-08-07,none,The full INR 242600 cannot be completed safely within 90 days. The maximum safe amount today is INR 242600.
+request_159,13398,not_affordable,not_recommended,none,2026-01-04,none,The full ZAR 13398 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 13398.
+request_160,0,not_affordable,not_recommended,none,,none,The full EUR 1246.3 cannot be completed safely within 90 days. The maximum safe amount today is EUR 0.
+request_161,0,not_affordable,not_recommended,none,,none,The full IDR 21204000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 0.
+request_162,5843079.78,not_affordable,not_recommended,none,,none,The full IDR 83923000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 5843079.78.
+request_163,13489539.36,not_affordable,not_recommended,none,2024-09-15,none,The full IDR 19304000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 13489539.36.
+request_164,27018000,not_affordable,not_recommended,none,2025-02-04,none,The full IDR 27018000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 27018000.
+request_165,61214.55,not_affordable,not_recommended,none,,none,The full INR 80600 cannot be completed safely within 90 days. The maximum safe amount today is INR 61214.55.
+request_166,2907.6,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,Use installment plan payment_option_471. The balance stays above USD 1700 throughout the payment schedule.
+request_167,43802,not_affordable,not_recommended,none,2025-05-05,none,The full ZAR 43802 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 43802.
+request_168,42462.3,affordable_with_plan,partial_payment,2026-01-07:42462.3|2026-01-15:6917.7,2026-01-15,none,Pay INR 42462.3 today and the remaining INR 6917.7 on 2026-01-15. This keeps the balance above INR 114400 throughout.
+request_169,41976,not_affordable,not_recommended,none,2024-03-04,none,The full ZAR 41976 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 41976.
+request_170,34633492.64,not_affordable,not_recommended,none,2025-08-15,none,The full IDR 36936000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 34633492.64.
+request_171,62,not_affordable,not_recommended,none,,none,The full EUR 1878.8 cannot be completed safely within 90 days. The maximum safe amount today is EUR 62.
+request_172,10044.78,not_affordable,not_recommended,none,2024-06-15,none,The full ZAR 10200 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 10044.78.
+request_173,70005.94,affordable_with_plan,installments,2025-11-21:39173.33|2025-12-19:39173.33|2026-01-16:39173.33,2025-12-15,none,Use installment plan payment_option_491. The balance stays above INR 79100 throughout the payment schedule.
+request_174,1146.2,not_affordable,not_recommended,none,2026-04-04,none,The full EUR 1146.2 cannot be completed safely within 90 days. The maximum safe amount today is EUR 1146.2.
+request_175,2346.3,affordable_now,full_payment,2024-09-06:2346.3,2024-09-06,none,"Pay EUR 2346.3 today. After this payment, the balance stays above the EUR 1700 minimum throughout the next 90 days."
+request_176,363.47,not_affordable,not_recommended,none,,none,The full EUR 1239.7 cannot be completed safely within 90 days. The maximum safe amount today is EUR 363.47.
+request_177,1017.6,affordable_now,full_payment,2026-01-05:1017.6,2026-01-05,none,"Pay USD 1017.6 today. After this payment, the balance stays above the USD 1300 minimum throughout the next 90 days."
+request_178,2938.1,not_affordable,not_recommended,none,2024-12-07,none,The full EUR 2938.1 cannot be completed safely within 90 days. The maximum safe amount today is EUR 2938.1.
+request_179,11112624.65,not_affordable,not_recommended,none,2025-06-15,none,The full IDR 41648000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 11112624.65.
+request_180,66500,not_affordable,not_recommended,none,2026-07-06,none,The full INR 66500 cannot be completed safely within 90 days. The maximum safe amount today is INR 66500.
+request_181,351.06,not_affordable,not_recommended,none,2024-05-15,none,The full USD 5059.2 cannot be completed safely within 90 days. The maximum safe amount today is USD 351.06.
+request_182,65714,not_affordable,not_recommended,none,2025-08-05,none,The full ZAR 65714 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 65714.
+request_183,26442487.59,affordable_with_plan,installments,2026-04-10:9313546.67|2026-05-10:9313546.67|2026-06-09:9313546.67,2026-04-15,none,Use installment plan payment_option_521. The balance stays above IDR 11878300 throughout the payment schedule.
+request_184,18073.77,not_affordable,not_recommended,none,,none,The full INR 251900 cannot be completed safely within 90 days. The maximum safe amount today is INR 18073.77.
+request_185,455.53,affordable_later,wait,2025-12-15:1257.3,2025-12-15,none,Wait until 2025-12-15 to pay EUR 1257.3 in full. The balance is projected to support the full amount safely by then.
+request_186,4599.6,not_affordable,not_recommended,none,,none,The full ZAR 26554 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 4599.6.
+request_187,0,not_affordable,not_recommended,none,,none,The full INR 187500 cannot be completed safely within 90 days. The maximum safe amount today is INR 0.
+request_188,203.13,not_affordable,not_recommended,none,,none,The full EUR 2464 cannot be completed safely within 90 days. The maximum safe amount today is EUR 203.13.
+request_189,488.4,not_affordable,not_recommended,none,2026-07-04,none,The full EUR 488.4 cannot be completed safely within 90 days. The maximum safe amount today is EUR 488.4.
+request_190,744.38,affordable_later,wait,2024-12-15:2557.5,2024-12-15,none,Wait until 2024-12-15 to pay EUR 2557.5 in full. The balance is projected to support the full amount safely by then.
+request_191,664.4,not_affordable,not_recommended,none,2025-05-03,none,The full EUR 664.4 cannot be completed safely within 90 days. The maximum safe amount today is EUR 664.4.
+request_192,98.81,not_affordable,not_recommended,none,,none,The full USD 2046 cannot be completed safely within 90 days. The maximum safe amount today is USD 98.81.
+request_193,211.39,not_affordable,not_recommended,none,2024-03-15,none,The full EUR 1212.2 cannot be completed safely within 90 days. The maximum safe amount today is EUR 211.39.
+request_194,47772.37,affordable_later,wait,2025-09-15:132800,2025-09-15,none,Wait until 2025-09-15 to pay INR 132800 in full. The balance is projected to support the full amount safely by then.
+request_195,1102.36,affordable_with_plan,installments,2026-01-09:405.74|2026-02-08:405.74|2026-03-10:405.74,2026-01-15,none,Use installment plan payment_option_555. The balance stays above EUR 700 throughout the payment schedule.
+request_196,762.3,affordable_now,full_payment,2024-06-03:762.3,2024-06-03,none,"Pay EUR 762.3 today. After this payment, the balance stays above the EUR 500 minimum throughout the next 90 days."
+request_197,0,not_affordable,not_recommended,none,,none,The full IDR 50939000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 0.
+request_198,185800,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,"Pay INR 185800 today. After this payment, the balance stays above the INR 124300 minimum throughout the next 90 days."
+request_199,23674000,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,Use installment plan payment_option_569. The balance stays above IDR 25359500 throughout the payment schedule.
+request_200,21717000,not_affordable,not_recommended,none,2025-02-06,none,The full IDR 21717000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 21717000.
+request_201,23997000,not_affordable,not_recommended,none,2026-04-03,none,The full IDR 23997000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 23997000.
+request_202,123900,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,"Pay INR 123900 today. After this payment, the balance stays above the INR 147800 minimum throughout the next 90 days."
+request_203,1442.1,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,2025-05-07,none,Use installment plan payment_option_583. The balance stays above EUR 1400 throughout the payment schedule.
+request_204,588.74,not_affordable,not_recommended,none,2026-01-04,none,The full EUR 588.74 cannot be completed safely within 90 days. The maximum safe amount today is EUR 588.74.
+request_205,10621000,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,"Pay IDR 10621000 today. After this payment, the balance stays above the IDR 13994300 minimum throughout the next 90 days."
+request_206,1404.7,not_affordable,not_recommended,none,2025-08-03,none,The full EUR 1404.7 cannot be completed safely within 90 days. The maximum safe amount today is EUR 1404.7.
+request_207,6065.4,not_affordable,not_recommended,none,2026-07-15,none,The full ZAR 11830 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 6065.4.
+request_208,3890135.68,affordable_later,wait,2024-06-15:4413000,2024-06-15,none,Wait until 2024-06-15 to pay IDR 4413000 in full. The balance is projected to support the full amount safely by then.
+request_209,1808.74,not_affordable,not_recommended,none,2026-01-15,none,The full ZAR 56914 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 1808.74.
+request_210,971.01,not_affordable,not_recommended,none,2026-04-15,none,The full USD 1360.02 cannot be completed safely within 90 days. The maximum safe amount today is USD 971.01.
+request_211,479.4,not_affordable,not_recommended,none,2024-09-15,none,The full EUR 1788.6 cannot be completed safely within 90 days. The maximum safe amount today is EUR 479.4.
+request_212,6437358.19,not_affordable,not_recommended,none,,none,The full IDR 71934000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 6437358.19.
+request_213,3362.4,affordable_with_plan,installments,2026-01-21:1165.63|2026-02-20:1165.63|2026-03-22:1165.63,2026-01-07,none,Use installment plan payment_option_610. The balance stays above USD 2100 throughout the payment schedule.
+request_214,69330.64,not_affordable,not_recommended,none,2024-12-15,none,The full INR 69750 cannot be completed safely within 90 days. The maximum safe amount today is INR 69330.64.
+request_215,29986,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,Use installment plan payment_option_616. The balance stays above ZAR 15700 throughout the payment schedule.
+request_216,632.41,affordable_later,wait,2026-09-15:3332.4,2026-09-15,none,Wait until 2026-09-15 to pay USD 3332.4 in full. The balance is projected to support the full amount safely by then.
+request_217,21558.59,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-03-15,none,Use installment plan payment_option_622. The balance stays above ZAR 26800 throughout the payment schedule.
+request_218,27553020.13,not_affordable,not_recommended,none,2025-08-15,none,The full IDR 61142000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 27553020.13.
+request_219,0,not_affordable,not_recommended,none,,none,The full EUR 1673.1 cannot be completed safely within 90 days. The maximum safe amount today is EUR 0.
+request_220,289.84,not_affordable,not_recommended,none,,none,The full EUR 3118.5 cannot be completed safely within 90 days. The maximum safe amount today is EUR 289.84.
+request_221,109800,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,"Pay INR 109800 today. After this payment, the balance stays above the INR 81500 minimum throughout the next 90 days."
+request_222,34078,not_affordable,not_recommended,none,2026-01-05,none,The full ZAR 34078 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 34078.
+request_223,873.11,affordable_with_plan,full_payment,2024-09-07:898.7,,stop:event_20458,Pay EUR 898.7 today after adjusting spending: stop:event_20458. These changes keep the balance above EUR 800.
+request_224,10327000,not_affordable,not_recommended,none,2025-02-04,none,The full IDR 10327000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 10327000.
+request_225,11171560.05,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-08-15,none,Use installment plan payment_option_647. The balance stays above IDR 17670700 throughout the payment schedule.
+request_226,157000,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,"Pay INR 157000 today. After this payment, the balance stays above the INR 209400 minimum throughout the next 90 days."
+request_227,12861.34,not_affordable,not_recommended,none,,none,The full INR 259700 cannot be completed safely within 90 days. The maximum safe amount today is INR 12861.34.
+request_228,3750307.39,not_affordable,not_recommended,none,,none,The full IDR 63327000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 3750307.39.
+request_229,550.76,affordable_with_plan,installments,2024-03-18:529.29|2024-04-18:529.29|2024-05-19:529.29,2024-04-15,none,Use installment plan payment_option_659. The balance stays above EUR 1000 throughout the payment schedule.
+request_230,3537.6,not_affordable,not_recommended,none,2025-08-06,none,The full EUR 3537.6 cannot be completed safely within 90 days. The maximum safe amount today is EUR 3537.6.
+request_231,35706,affordable_with_plan,installments,2026-01-06:12378.08|2026-02-05:12378.08|2026-03-07:12378.08,2026-01-03,none,Use installment plan payment_option_666. The balance stays above ZAR 24300 throughout the payment schedule.
+request_232,797.65,not_affordable,not_recommended,none,2024-07-15,none,The full EUR 1970.1 cannot be completed safely within 90 days. The maximum safe amount today is EUR 797.65.
+request_233,0,not_affordable,not_recommended,none,,none,The full IDR 6241000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 0.
+request_234,303.47,not_affordable,not_recommended,none,2026-08-15,none,The full EUR 1213.3 cannot be completed safely within 90 days. The maximum safe amount today is EUR 303.47.
+request_235,967.2,not_affordable,not_recommended,none,2024-09-06,none,The full USD 967.2 cannot be completed safely within 90 days. The maximum safe amount today is USD 967.2.
+request_236,6420638.01,not_affordable,not_recommended,none,,none,The full IDR 52383000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 6420638.01.
+request_237,23826000,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,"Pay IDR 23826000 today. After this payment, the balance stays above the IDR 22431500 minimum throughout the next 90 days."
+request_238,663.6,not_affordable,not_recommended,none,2024-12-07,none,The full USD 663.6 cannot be completed safely within 90 days. The maximum safe amount today is USD 663.6.
+request_239,208.01,not_affordable,not_recommended,none,,none,The full USD 642 cannot be completed safely within 90 days. The maximum safe amount today is USD 208.01.
+request_240,22540,not_affordable,not_recommended,none,,none,The full INR 101200 cannot be completed safely within 90 days. The maximum safe amount today is INR 22540.
+request_241,21052000,not_affordable,not_recommended,none,2024-03-03,none,The full IDR 21052000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 21052000.
+request_242,0,not_affordable,not_recommended,none,,none,The full EUR 1966.8 cannot be completed safely within 90 days. The maximum safe amount today is EUR 0.
+request_243,17468,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,"Pay ZAR 17468 today. After this payment, the balance stays above the ZAR 19900 minimum throughout the next 90 days."
+request_244,49918,not_affordable,not_recommended,none,2024-06-04,none,The full ZAR 49918 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 49918.
+request_245,38788.88,not_affordable,not_recommended,none,2025-12-15,none,The full INR 128500 cannot be completed safely within 90 days. The maximum safe amount today is INR 38788.88.
+request_246,64086,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,none,Use installment plan payment_option_710. The balance stays above ZAR 39300 throughout the payment schedule.
+request_247,1059.3,affordable_now,full_payment,2024-09-05:1059.3,2024-09-05,none,"Pay EUR 1059.3 today. After this payment, the balance stays above the EUR 1300 minimum throughout the next 90 days."
+request_248,1026.8,affordable_with_plan,partial_payment,2025-02-07:1026.8|2025-03-15:938.8,2025-03-15,none,Pay USD 1026.8 today and the remaining USD 938.8 on 2025-03-15. This keeps the balance above USD 1300 throughout.
+request_249,178.93,not_affordable,not_recommended,none,2026-02-15,none,The full USD 643.2 cannot be completed safely within 90 days. The maximum safe amount today is USD 178.93.
+request_250,0,not_affordable,not_recommended,none,,none,The full ZAR 124278 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 0.
+request_251,1513.6,not_affordable,not_recommended,none,2025-05-03,none,The full EUR 1513.6 cannot be completed safely within 90 days. The maximum safe amount today is EUR 1513.6.
+request_252,6188297.21,affordable_later,wait,2026-08-15:28082000,2026-08-15,none,Wait until 2026-08-15 to pay IDR 28082000 in full. The balance is projected to support the full amount safely by then.
+request_253,1636.96,affordable_with_plan,installments,2024-03-21:984.6|2024-04-21:984.6|2024-05-22:984.6,2024-04-15,none,Use installment plan payment_option_729. The balance stays above EUR 2300 throughout the payment schedule.
+request_254,824.45,not_affordable,not_recommended,none,2025-09-15,none,The full USD 3535.2 cannot be completed safely within 90 days. The maximum safe amount today is USD 824.45.
+request_255,3345000,not_affordable,not_recommended,none,2026-04-06,none,The full IDR 3345000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 3345000.
+request_256,180215.52,affordable_with_plan,installments,2024-06-10:75816|2024-07-11:75816|2024-08-11:75816,2024-06-15,none,Use installment plan payment_option_737. The balance stays above INR 168600 throughout the payment schedule.
+request_257,436.82,not_affordable,not_recommended,none,2025-11-15,none,The full USD 1352.4 cannot be completed safely within 90 days. The maximum safe amount today is USD 436.82.
+request_258,1113.6,not_affordable,not_recommended,none,2026-01-07,none,The full USD 1113.6 cannot be completed safely within 90 days. The maximum safe amount today is USD 1113.6.
+request_259,206.98,affordable_later,wait,2024-11-15:935,2024-11-15,none,Wait until 2024-11-15 to pay EUR 935 in full. The balance is projected to support the full amount safely by then.
+request_260,10650879.71,affordable_with_plan,partial_payment,2025-02-06:10650879.71|2025-03-15:41428120.29,2025-03-15,none,Pay IDR 10650879.71 today and the remaining IDR 41428120.29 on 2025-03-15. This keeps the balance above IDR 20727700 throughout.
+request_261,1830.4,affordable_now,full_payment,2026-07-03:1830.4,2026-07-03,none,"Pay EUR 1830.4 today. After this payment, the balance stays above the EUR 1500 minimum throughout the next 90 days."
+request_262,9236000,not_affordable,not_recommended,none,2024-12-05,none,The full IDR 9236000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 9236000.
+request_263,10291.96,not_affordable,not_recommended,none,,none,The full ZAR 51546 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 10291.96.
+request_264,26863.74,not_affordable,not_recommended,none,2026-05-15,none,The full INR 111300 cannot be completed safely within 90 days. The maximum safe amount today is INR 26863.74.
+request_265,45970,not_affordable,not_recommended,none,2024-03-06,none,The full INR 45970 cannot be completed safely within 90 days. The maximum safe amount today is INR 45970.
+request_266,784.16,not_affordable,not_recommended,none,2025-10-15,none,The full EUR 935 cannot be completed safely within 90 days. The maximum safe amount today is EUR 784.16.
+request_267,1726.21,affordable_with_plan,installments,2026-01-08:667.33|2026-02-07:667.33|2026-03-09:667.33,2026-01-15,none,Use installment plan payment_option_767. The balance stays above EUR 1500 throughout the payment schedule.
+request_268,1134.52,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-07-15,none,Use installment plan payment_option_770. The balance stays above EUR 1400 throughout the payment schedule.
+request_269,0,not_affordable,not_recommended,none,,none,The full ZAR 15490 cannot be completed safely within 90 days. The maximum safe amount today is ZAR 0.
+request_270,255.68,not_affordable,not_recommended,none,2026-09-15,none,The full USD 3028.8 cannot be completed safely within 90 days. The maximum safe amount today is USD 255.68.
+request_271,26659.34,affordable_later,wait,2024-10-15:91300,2024-10-15,none,Wait until 2024-10-15 to pay INR 91300 in full. The balance is projected to support the full amount safely by then.
+request_272,6128654.63,not_affordable,not_recommended,none,2025-03-15,none,The full IDR 13585000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 6128654.63.
+request_273,10756514.78,not_affordable,not_recommended,none,2026-04-15,none,The full IDR 15861000 cannot be completed safely within 90 days. The maximum safe amount today is IDR 10756514.78.
+request_274,2500.78,not_affordable,not_recommended,none,2024-12-15,none,The full EUR 2713.7 cannot be completed safely within 90 days. The maximum safe amount today is EUR 2500.78.
+request_275,15884000,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,"Pay IDR 15884000 today. After this payment, the balance stays above the IDR 12760100 minimum throughout the next 90 days."
