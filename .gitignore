@@ -29,4 +29,4 @@ test_simulator_v2.py
 # Keep the three HackerRank submission artifacts tracked
 !code.zip
 !output.csv
-!log.txt
+!chat_transcript.md
